@@ -1,0 +1,61 @@
+.maintext{
+    font-size: 35px;
+    font-weight: bold;
+    color: #ffffff;
+}
+.bgheader{
+    background: #1877f2;
+    height: 4em;
+    
+}
+.text-white{
+    font-weight: bold;
+    color: #fdfdfd;
+}
+.image{
+    width: 10em;
+    height: 10em;
+    margin-left: 3em;
+   
+}
+.colourtotext{
+    color: #1877f2;
+    font-weight: bold;
+}
+.image-style{
+    
+    height: 16rem;
+}
+.align{
+    padding-left: 0em;
+}
+.element {
+    width: 20em;
+    height: 26em;
+  }
+.cardheight{
+   height: 29em;
+}
+.footer{
+ background: #1877f2;
+ 
+}
+header{
+    position: fixed;
+    width: 100%;
+   z-index: 2;
+    
+}
+.background{
+    background:  #f2f2f2;
+}
+.rowstyle{
+    padding-top: 8em;
+}
+.textdecoration{
+    text-decoration: none;
+    
+    
+}
+
+

@@ -1,0 +1,22 @@
+.bgheader{
+    background: #e1e4e7;
+    height: 4em;
+    
+}
+.text-white{
+    font-weight: bold;
+    color: #fdfdfd;
+}
+.colourtotext{
+    color: #1877f2;
+    font-weight: bold;
+}
+.text-decoration{
+    text-decoration: none;
+    
+}
+.cardbody{
+    background: #e1e4e7;
+    
+
+}

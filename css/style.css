@@ -1,3 +1,6 @@
+body{
+    margin: 0%;
+}
 .maintext{
     font-size: 35px;
     font-weight: bold;
@@ -34,7 +37,8 @@
     height: 26em;
   }
 .cardheight{
-   height: 29em;
+    height: 24em;
+    width: 18em;
 }
 .footer{
  background: #1877f2;
@@ -57,5 +61,91 @@ header{
     
     
 }
+.progress-tittle {
+    color: #1877f2;
+    font-size: 0.85em;
+    text-transform: uppercase;
+    margin-bottom: .5em;
+    letter-spacing: 1px;
+    line-height: inherit;
+    font-weight: bold;
+}
+.progress {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    height: 1rem;
+    overflow: hidden;
+    font-size: 0.75rem;
+    background-color: #e9ecef;
+    border-radius: 0.25rem;
+}
+  
+.progress-bar {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    color: #fff;
+    text-align: center;
+    background-color: #007bff;
+    transition: width 0.6s ease;
+ }
+ .progress {
+    font-size: 0.75em;
+    line-height: 8em;
+    text-align: center;
+    background-color: #d6d9da;
+    border-radius: 1.25rem;
+    margin-bottom: 1em;
+}
+.myphoto-sign {
+    width: 40%;
+    margin-bottom: 2em;
+}
+.about-right-inner h4 {
+    font-size: 24px;
+    text-transform: capitalize;
+    font-weight: 600;
+    line-height: 38px;
+}
+.about-right-inner p {
+    line-height: 28px;
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+  .banner-w3pvt {
+	background: url(../images/banner.webp) no-repeat center;
+	background-size: cover;
+	position: relative;
+    
+    
 
-
+}
+.d-flex {
+    display: -webkit-box !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+  }
+  .mt-sm-5 {
+    margin-top: 12rem !important;
+  }
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+    width: 80%;
+  }
+  
+  
+.backer{
+    color: black;
+    font-weight: bold;
+}

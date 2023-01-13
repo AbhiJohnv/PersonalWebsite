@@ -1,3 +1,6 @@
+body{
+    margin: 0%;
+}
 .maintext{
     font-size: 35px;
     font-weight: bold;
@@ -34,7 +37,8 @@
     height: 26em;
   }
 .cardheight{
-   height: 29em;
+    height: 24em;
+    width: 18em;
 }
 .footer{
  background: #1877f2;
@@ -58,12 +62,13 @@ header{
     
 }
 .progress-tittle {
-    color: #888;
+    color: #1877f2;
     font-size: 0.85em;
     text-transform: uppercase;
     margin-bottom: .5em;
     letter-spacing: 1px;
     line-height: inherit;
+    font-weight: bold;
 }
 .progress {
     display: -webkit-box;
@@ -97,7 +102,7 @@ header{
     line-height: 8em;
     text-align: center;
     background-color: #d6d9da;
-    border-radius: 0.25rem;
+    border-radius: 1.25rem;
     margin-bottom: 1em;
 }
 .myphoto-sign {
@@ -117,3 +122,30 @@ header{
     max-width: 100%;
     height: auto;
   }
+  .banner-w3pvt {
+	background: url(../images/banner.webp) no-repeat center;
+	background-size: cover;
+	position: relative;
+    
+    
+
+}
+.d-flex {
+    display: -webkit-box !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+  }
+  .mt-sm-5 {
+    margin-top: 12rem !important;
+  }
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+    width: 80%;
+  }
+  
+  
+.backer{
+    color: black;
+    font-weight: bold;
+}

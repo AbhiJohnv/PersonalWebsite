@@ -1,6 +1,9 @@
+/*Body*/
 body{
     margin: 0%;
 }
+/*//Body*/
+/*Header*/
 .maintext{
     font-size: 35px;
     font-weight: bold;
@@ -15,51 +18,29 @@ body{
     font-weight: bold;
     color: #fdfdfd;
 }
-.image{
-    width: 10em;
-    height: 10em;
-    margin-left: 3em;
-   
-}
-.colourtotext{
-    color: #1877f2;
-    font-weight: bold;
-}
-.image-style{
-    
-    height: 16rem;
-}
-.align{
-    padding-left: 0em;
-}
-.element {
-    width: 20em;
-    height: 26em;
-  }
-.cardheight{
-    height: 24em;
-    width: 18em;
-}
-.footer{
- background: #1877f2;
- 
-}
 header{
     position: fixed;
     width: 100%;
    z-index: 2;
     
 }
-.background{
-    background:  #f2f2f2;
-}
-.rowstyle{
-    padding-top: 8em;
-}
-.textdecoration{
-    text-decoration: none;
+/*//Header*/
+
+/*Section-1*/
+.banner-w3pvt {
+	background: url(../images/banner.webp) no-repeat center;
+	background-size: cover;
+	position: relative;
     
     
+
+}
+/*//Section-1*/
+
+/*Section-2*/
+.colourtotext{
+    color: #1877f2;
+    font-weight: bold;
 }
 .progress-tittle {
     color: #1877f2;
@@ -105,47 +86,39 @@ header{
     border-radius: 1.25rem;
     margin-bottom: 1em;
 }
-.myphoto-sign {
-    width: 40%;
-    margin-bottom: 2em;
-}
-.about-right-inner h4 {
-    font-size: 24px;
-    text-transform: capitalize;
-    font-weight: 600;
-    line-height: 38px;
-}
-.about-right-inner p {
-    line-height: 28px;
-}
 .img-fluid {
     max-width: 100%;
     height: auto;
   }
-  .banner-w3pvt {
-	background: url(../images/banner.webp) no-repeat center;
-	background-size: cover;
-	position: relative;
-    
-    
-
-}
-.d-flex {
-    display: -webkit-box !important;
-    display: -ms-flexbox !important;
-    display: flex !important;
-  }
-  .mt-sm-5 {
-    margin-top: 12rem !important;
-  }
-  .img-fluid {
+  
+ .img-fluid {
     max-width: 100%;
     height: auto;
     width: 80%;
   }
-  
-  
-.backer{
-    color: black;
-    font-weight: bold;
+/*//Section-2*/
+
+/*Section-3*/
+.cardheight{
+    height: 24em;
+    width: 18em;
 }
+.align{
+    padding-left: 0em;
+}
+/*//Section-3*/
+
+/*Section-4*/
+.image-style{
+    
+    height: 16rem;
+}
+/*//Section-4*/
+
+/*Footer*/
+
+.footer{
+ background: #1877f2;
+ 
+}
+/*//Footer*/

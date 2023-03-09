@@ -15,8 +15,4 @@ To clone the repository, run the following command:
 git clone https://github.com/abhijohnv/PersonalWebsite.git
 
 
-## Contributing
-
-I welcome any contributions or suggestions to improve this website. Feel free to fork the repository, make changes, and create a pull request.
-
 
